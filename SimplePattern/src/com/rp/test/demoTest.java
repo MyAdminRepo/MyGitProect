@@ -29,6 +29,8 @@ public class demoTest {
 		
 		if (flag) {
 			
+			System.out.println("Flag condition satitfied");
+			
 		}
 		
 		
