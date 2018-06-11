@@ -12,7 +12,7 @@ public class demoTest {
 				
 				System.out.println(" * ");
 				
-			}
+			}//close for
 			System.out.println();
 			 
 		}
@@ -25,16 +25,16 @@ public class demoTest {
 			}
 			System.out.println();
 			 
-		}
+		}//for
 		
 		if (flag) {
 			
 			System.out.println("Flag condition satitfied");
 			
 		}
-		
+		System.out.println("holle Java");
 		
 
-	}
+	}//main
 
-}
+}//class
